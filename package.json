@@ -7,7 +7,7 @@
     "url": "git+https://github.com/Latada/wetube-reloaded.git"
   },
   "scripts": {
-    "dev": "nodemon --exec babel-node index.js"
+    "dev": "nodemon --exec babel-node src/server.js"
   },
   "author": "Latada <tvfxq0423@gmail.com>",
   "license": "MIT",
