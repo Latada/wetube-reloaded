@@ -1,0 +1,16 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "The best way to watch videos.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Latada/wetube-reloaded.git"
+  },
+  "author": "Latada <tvfxq0423@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Latada/wetube-reloaded/issues"
+  },
+  "homepage": "https://github.com/Latada/wetube-reloaded#readme"
+}
